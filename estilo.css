@@ -1,0 +1,8 @@
+.grafico {
+    display:flex;
+    flex-direction: row;
+}
+
+.myChart {
+    width: 50vw;
+}
